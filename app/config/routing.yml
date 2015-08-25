@@ -1,0 +1,7 @@
+main:
+    resource: "@mainBundle/Resources/config/routing.yml"
+    prefix:   /
+
+imiehello:
+    resource: "@ImiehelloBundle/Resources/config/routing.yml"
+    prefix:   /
